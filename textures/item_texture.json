@@ -1,0 +1,10 @@
+{
+    "resource_pack_name": "vanilla",
+    "texture_name": "atlas.items",
+    "texture_data": {
+      "gold_ingot_generator": { "textures": "textures/items/gold_ingot_generator" },
+      "lobby_respawn_point": { "textures": "textures/items/lobby_respawn_point" },
+      "player_respawn_point": { "textures": "textures/items/player_respawn_point" },
+      "remove_point": { "textures": "textures/items/remove_point" }
+    }
+  }

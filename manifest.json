@@ -1,0 +1,24 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "谁是杀手游戏引擎Addons 资源包 1.20.0",
+		"description": "引擎配置了所有谁是杀手游戏所需要的功能，仅支持1.20.0以上版本的minecraft。",
+		"uuid": "cbe899d3-4d89-474a-bab1-6db44f3677cd",
+		"version": [0, 0, 1],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["pack.authors"],
+		"generated_with": {
+			"blockbench_entity_wizard": ["1.0.6"]
+		}
+	},
+	"modules": [
+		{
+			"description": "引擎配置了所有谁是杀手游戏所需要的功能，仅支持1.20.0以上版本的minecraft。",
+			"type": "resources",
+			"uuid": "0168b3f3-d858-47bd-8465-c05c6782f8fc",
+			"version": [0, 0, 3]
+		}
+	]
+}

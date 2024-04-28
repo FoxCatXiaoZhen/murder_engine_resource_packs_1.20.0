@@ -1,0 +1,12 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:item": {
+      "description": {
+        "identifier": "function:lobby_respawn_point",
+        "category": "Equipment"
+      },
+      "components": {
+        "minecraft:icon": "lobby_respawn_point"
+      }
+    }
+  }

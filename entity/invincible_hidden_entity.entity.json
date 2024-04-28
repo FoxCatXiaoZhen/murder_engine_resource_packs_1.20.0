@@ -1,0 +1,22 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "function:invincible_hidden_entity",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": ""
+			},
+			"geometry": {
+				"default": ""
+			},
+			"spawn_egg": {
+				"base_color": "#946884",
+				"overlay_color": "#83968a"
+			}
+			
+		}
+	}
+}
