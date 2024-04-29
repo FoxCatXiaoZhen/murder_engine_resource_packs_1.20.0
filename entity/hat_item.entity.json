@@ -1,0 +1,43 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "function:hat_item",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/hat_item"
+			},
+			"geometry": {
+				"default": "geometry.hat_item"
+			},
+			
+			"particle_effects": {
+				"hat_item": "fx:hat_item"
+			},
+
+			"spawn_egg": {
+				"texture": "hat_item"
+			},
+
+			"animations": {
+				"move": "animation.hat_item.fx",
+				"sheared": "animation.hat_item.fx",
+				"look_at_target": "animation.hat_item.fx",
+				"move_controller": "animation.hat_item.fx"
+			
+		    },
+			"render_controllers": ["controller.render.default"],
+			
+			"scripts": {
+				"animate": [
+					"move_controller",
+					{
+						"sheared": "query.is_sheared"
+					}
+				]
+			}
+		}
+	}
+}

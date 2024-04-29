@@ -1,0 +1,12 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:item": {
+      "description": {
+        "identifier": "function:hat_item",
+        "category": "Equipment"
+      },
+      "components": {
+        "minecraft:icon": "hat_item"
+      }
+    }
+  }
