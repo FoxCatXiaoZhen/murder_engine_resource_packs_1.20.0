@@ -1,0 +1,13 @@
+{
+	"entity_sounds": {
+		"entities": {
+			"function:hat_item": {
+				"events": {
+					"death": "",
+					"hurt": "",
+					"shoot": ""
+				}
+			}
+		}
+	}
+}
