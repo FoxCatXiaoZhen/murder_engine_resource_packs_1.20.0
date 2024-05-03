@@ -1,0 +1,39 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "function:flying_blade",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/flying_blade"
+			},
+			"geometry": {
+				"default": "geometry.flying_blade"
+			},
+
+			"spawn_egg": {
+				"texture": "flying_blade"
+			},
+
+			"animations": {
+				"move":            "animation.flying_blade.flying",
+				"sheared":         "animation.flying_blade.flying",
+				"look_at_target":  "animation.flying_blade.flying",
+				"move_controller": "animation.flying_blade.flying"
+			
+		    },
+			"render_controllers": ["controller.render.default"],
+			
+			"scripts": {
+				"animate": [
+					"move_controller",
+					{
+						"sheared": "query.is_sheared"
+					}
+				]
+			}
+		}
+	}
+}

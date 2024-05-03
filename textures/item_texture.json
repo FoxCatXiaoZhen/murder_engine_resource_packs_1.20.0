@@ -6,6 +6,7 @@
       "lobby_respawn_point": { "textures": "textures/items/lobby_respawn_point" },
       "player_respawn_point": { "textures": "textures/items/player_respawn_point" },
       "remove_point": { "textures": "textures/items/remove_point" },
-      "hat_item": { "textures": "textures/items/hat_item" }
+      "hat_item": { "textures": "textures/items/hat_item" },
+      "flying_blade": { "textures": "textures/items/flying_blade" }
     }
   }

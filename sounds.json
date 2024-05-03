@@ -7,6 +7,13 @@
 					"hurt": "",
 					"shoot": ""
 				}
+			},
+			"function:flying_blade": {
+				"events": {
+					"death": "",
+					"hurt": "",
+					"shoot": ""
+				}
 			}
 		}
 	}
