@@ -14,6 +14,13 @@
 					"hurt": "",
 					"shoot": ""
 				}
+			},
+			"function:knive_navigation": {
+				"events": {
+					"death": "",
+					"hurt": "",
+					"shoot": ""
+				}
 			}
 		}
 	}

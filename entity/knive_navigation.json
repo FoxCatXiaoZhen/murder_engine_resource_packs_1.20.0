@@ -1,0 +1,25 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "function:knive_navigation",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": ""
+			},
+			"geometry": {
+				"default": ""
+			},
+
+			"animations": {
+				"move":            "",
+				"sheared":         "",
+				"look_at_target":  "",
+				"move_controller": ""
+			
+		    }
+		}
+	}
+}
