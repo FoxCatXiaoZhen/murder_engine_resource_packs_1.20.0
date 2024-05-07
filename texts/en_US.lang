@@ -1,24 +1,25 @@
 
-// 物品
-item.functiob:sword=刀
-
+## 物品
 item.spawn_egg.entity.function:step1_start.name=第一步，开始 [注意，确保附近没有重要建筑在点击生成！]
 item.spawn_egg.entity.function:invincible_hidden_entity.name=无敌隐藏实体
 item.spawn_egg.entity.function:transmitters.name=传送器
 item.function:sword=铁剑
-item.spawn_egg.entity.function:player_respawn_point.name=玩家出生点
-item.spawn_egg.entity.function:lobby_respawn_point.name=大厅出生点
+item.spawn_egg.entity.function:player_respawn_point.name=游戏玩家出生点
+item.spawn_egg.entity.function:lobby_respawn_point.name=大厅重生点
 item.spawn_egg.entity.function:gold_ingot_generator.name=金锭生成器
 item.spawn_egg.entity.function:remove_point.name=§c清除点§f (清除最近的生成器或重生点)
 item.spawn_egg.entity.function:hat_item.name=§b侦探帽§f (平民接触成为侦探)
 item.spawn_egg.entity.function:flying_blade.name=§c飞刀§f （直接召唤飞刀，召唤太多会造成卡顿）
 item.function:flying_blade=§c飞刀§f (瞄准后右键或长安发射)
-// 实体
+
+
+
+## 实体
 entity.function:step1_start.name=第一步，开始
 entity.function:invincible_hidden_entity.name=无敌隐藏实体
 entity.function:transmitters.name=传送器
-entity.function:player_respawn_point.name=玩家生成器
-entity.function:lobby_respawn_point.name=大厅生成器
+entity.function:player_respawn_point.name=游戏玩家生成器
+entity.function:lobby_respawn_point.name=大厅重生点
 entity.function:gold_ingot_generator.name=金锭生成器
 entity.function:remove_point.name=§c清除点§r
 entity.function:hat_item.name=§b侦探帽§f
