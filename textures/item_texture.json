@@ -7,6 +7,7 @@
       "player_respawn_point": { "textures": "textures/items/player_respawn_point" },
       "remove_point": { "textures": "textures/items/remove_point" },
       "hat_item": { "textures": "textures/items/hat_item" },
-      "flying_blade": { "textures": "textures/items/flying_blade" }
+      "flying_blade": { "textures": "textures/items/flying_blade" },
+      "detector": { "textures": "textures/items/detector" }
     }
   }

@@ -11,6 +11,7 @@ item.spawn_egg.entity.function:remove_point.name=§c清除点§f (清除最近�
 item.spawn_egg.entity.function:hat_item.name=§b侦探帽§f (平民接触成为侦探)
 item.spawn_egg.entity.function:flying_blade.name=§c飞刀§f （直接召唤飞刀，召唤太多会造成卡顿）
 item.function:flying_blade=§c飞刀§f (瞄准后右键或长安发射)
+item.function:detector=§c探测仪§f
 
 
 
