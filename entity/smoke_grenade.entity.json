@@ -1,0 +1,43 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "function:smoke_grenade",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/smoke_grenade"
+			},
+			"geometry": {
+				"default": "geometry.smoke_grenade"
+			},
+
+			"spawn_egg": {
+				"base_color": "#946884",
+				"overlay_color": "#83968a"
+			},
+			"sound_effects": {
+				"smoke_grenade": "smoke_grenade"
+			},
+
+			"animations": {
+				"move":            "animation.smoke_grenade.fx",
+				"sheared":         "animation.smoke_grenade.fx",
+				"look_at_target":  "animation.smoke_grenade.fx",
+				"move_controller": "animation.smoke_grenade.fx"
+			
+		    },
+			"render_controllers": ["controller.render.default"],
+			
+			"scripts": {
+				"animate": [
+					"move_controller",
+					{
+						"sheared": "query.is_sheared"
+					}
+				]
+			}
+		}
+	}
+}

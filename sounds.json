@@ -21,6 +21,13 @@
 					"hurt": "",
 					"shoot": ""
 				}
+			},
+			"function:smoke_grenade": {
+				"events": {
+					"death": "",
+					"hurt": "",
+					"shoot": ""
+				}
 			}
 		}
 	}

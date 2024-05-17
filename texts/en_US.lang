@@ -12,6 +12,7 @@ item.spawn_egg.entity.function:hat_item.name=§b侦探帽§f (平民接触成为
 item.spawn_egg.entity.function:flying_blade.name=§c飞刀§f （直接召唤飞刀，召唤太多会造成卡顿）
 item.function:flying_blade=§c飞刀§f (瞄准后右键或长安发射)
 item.function:detector=§c探测仪§f
+item.spawn_egg.entity.function:smoke_grenade.name=§7烟雾弹§f (直接召唤和使用)
 
 
 
@@ -25,3 +26,4 @@ entity.function:gold_ingot_generator.name=金锭生成器
 entity.function:remove_point.name=§c清除点§r
 entity.function:hat_item.name=§b侦探帽§f
 entity.function:flying_blade.name=§c飞刀§f
+entity.function:smoke_grenade.name=§7烟雾弹§f

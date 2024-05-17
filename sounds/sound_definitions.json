@@ -11,6 +11,31 @@
             }
          ]
       
+      },
+      "smoke_grenade" : {
+         "category" : "sounds",
+         "sounds" : [
+
+            {
+               "name": "sounds/smoke_grenade",
+               "volume" : 2,
+               "pitch": 0.95
+                  
+            },
+            {
+               "name": "sounds/smoke_grenade",
+               "volume" : 2,
+               "pitch": 1
+                  
+            },
+            {
+               "name": "sounds/smoke_grenade",
+               "volume" : 2,
+               "pitch": 1.05
+                  
+            }
+         ]
+      
       }
    }
 }
