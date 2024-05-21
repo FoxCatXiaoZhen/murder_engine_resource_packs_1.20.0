@@ -13,19 +13,15 @@
 				"default": "geometry.smoke_grenade"
 			},
 
+			
 			"spawn_egg": {
-				"base_color": "#946884",
-				"overlay_color": "#83968a"
-			},
-			"sound_effects": {
-				"smoke_grenade": "smoke_grenade"
-			},
-
+				"texture": "smoke"
+			  },
 			"animations": {
-				"move":            "animation.smoke_grenade.fx",
-				"sheared":         "animation.smoke_grenade.fx",
-				"look_at_target":  "animation.smoke_grenade.fx",
-				"move_controller": "animation.smoke_grenade.fx"
+				"move":            "",
+				"sheared":         "",
+				"look_at_target":  "",
+				"move_controller": ""
 			
 		    },
 			"render_controllers": ["controller.render.default"],

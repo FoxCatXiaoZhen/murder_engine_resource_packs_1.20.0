@@ -8,6 +8,7 @@
       "remove_point": { "textures": "textures/items/remove_point" },
       "hat_item": { "textures": "textures/items/hat_item" },
       "flying_blade": { "textures": "textures/items/flying_blade" },
-      "detector": { "textures": "textures/items/detector" }
+      "detector": { "textures": "textures/items/detector" },
+      "smoke": { "textures": "textures/items/smoke" }
     }
   }

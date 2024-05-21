@@ -2,7 +2,7 @@
 	"format_version": "1.8.0",
 	"animations": {
 		"animation.smoke_grenade.fx": {
-			"animation_length": 11.58333,
+			"animation_length": 13.75,
 			"bones": {
 				"waist": {
 					"rotation": {
@@ -88,7 +88,8 @@
 				"0.0": {
 					"effect": "smoke_grenade"
 				}
-			}
+			},
+			"timeline": {}
 		}
 	}
 }
